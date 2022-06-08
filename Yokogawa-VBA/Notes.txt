@@ -1,0 +1,13 @@
+Visual Basic for Applications - PHANI RAJ B.N
+VBA allows to customize the Office tools for automation and other programming activities required for Office Management. It uses classic VB6 for programming the components and make it usable for the users of the Office to automate their work. 
+
+We use office products to develop VBA Components. Excel, Word, Powerpoint, Access and Publisher are used to create VBA Components and Applications. 
+ With VBA, we can automate processes using a concept called MACROS. MACROS are small functions and programs  created to automate a task. This could a click of a button, could be a computation of some data from a certain sheet. To do this, we will enable the Developer tools for the Excel document. 
+ 
+ Once the Developer tools are set, U can record macros or create one for the usage. 
+ U can set the Excel doc to Design mode by selecting the Design mode in the Developer Ribbon. U can now drag and drop the controls of VB inside UR Excel document. 
+ 
+ There are 2 types of controls in VBA: Form controls and ActiveX Controls. ActiveX Controls are used to provide VB based controls inside UR Excel doc and perform all kinds of Operations. ActiveX is a term that was used by MS for all COM based Components. COM stands for Component Object Model, a technology that supported multi Language support in the programming languages before .NET.
+ 
+ Application object represents UR single Instance of the Excel App. It is the mother of all objects of VBA in UR Code. 
+ VBA is object based Programming. U directly deal with objects instead of classes and objects. Here Application is an object that represents UR Excel running instance. 
